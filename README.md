@@ -25,8 +25,8 @@ Stop the Program.
  
  ## Program:
  ~~~
- NAME : ANISH M J
- REG_NO : 212221230005
+ NAME : P.SANDEEP
+ REG_NO : 212221230074
  ~~~
  ~~~
  using System;
